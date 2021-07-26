@@ -1,1 +1,0 @@
-PowerShell Start hacks.bat -Verb runAs -WindowStyle Hidden
