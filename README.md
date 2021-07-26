@@ -1,30 +1,29 @@
-Lesernav OLD (WanaCry by craciu25_YT)
-Esta es una version antigua de lesernav que primero pense en ponerle el nombre WanaCry y me dio palo cambiarle los directorios. Esto es el 2020 por tanto no se ni que hace XD.
-Por lo que veo esto hace:
-1. Crear carpetas 
- - C:\WanaCry
- - C:\WanaCry\msgspam
+ES:
+Lesenarv 2.0.
+Que tiene?
+- Bloquear Administrador de Tareas
+- Bloquear internet
+- Copiarse en "AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" (Para iniciar con el sistema)
+- Crear carpeta Windows Defender Config en "%appdata%\Microsoft\Windows Defender Config\" y copiarse dentro.
+- PARA DESACTIVAR Antes de crashar el ordenador comprobara si existe un usb llamado "CRACIU25YT". Si esta conectado se eliminara a el mismo. Si no esta comenzara a crashear con
+CMD, MsgBox, Calculadora, Word, explorer, Notepad, WordPad, Panel de control y para finalizar %0|%0
 
+COMO INSTALAR:
+(RECUERDA USAR UNA MAQUINA VIRUTAL. NO ME HAGO RESPONSABLE DEL USO DE ESTE MALWARE)
+1. El archivo "hacks.craciu25yt" cambiale la extension a .bat. Seria hacks.bat (Medida de seguridad)
+2. Ejecutar MinecraftHacksInstaller.bat
 
-2. Despues abre CrashMD.bat (Crea carpetas como un loco en C:\WanaCry\msgspam).
+EN:
+Lesenarv 2.0.
+What have?
+- Block Task Man.
+- Block internet
+- Copy self in AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup (For start with the sistem)
+- Create folder with the name Windows Defender Config in "AppData\Microsoft\Windows Defender Config\"
+- FOR POWER OF THE MALWARE: Before start crashing check if is conected a USB with the name "CRACIU25YT". If is coneted the malware delete ifself. If not is conected start to crash with
+CMD, MsgBox, Calculator, Word, explorer, Notepad, WordPad, Control Panel and for finish %0|%0
 
-
-3. Mas tarde copia de I:\asd\New Virusss\msgspam (esta carpeta pero con el nombre New Virusss. Si puede ser cambia el directorio a donde este o crea la misma ruta) el archivo que spamea msgbox y lo copia en C:\WanaCry\msgspam.
-
-
-4. Despues deshabilita tu internet con ipconfig /release (Para activar ipconfig /renew en cmd).
-
-
-5. Deshabilitar Task Manager editando registros
-
-
-6. Intentar crashear con Word, Paint, Bloc de notas, cmd, explorador de archivos, panel de control y calculadora.
-
-
-7. Despues abrir CMD como loco
-
-
-8. Iniciar spam de MsgBox
-
-
-9. Apagar pc en 30 segundos.
+HOW INSTALL:
+(REMEMBER USE A VIRUAL MACHINE. I AM NOT RESPONSABLE WITH THE USE WITH THIS MALWARE)
+1. The document "hacks.craciu25yt" change the extension to .bat. The look is hacks.bat (for security)
+2. Execute MinecraftHacksInstaller.bat 
